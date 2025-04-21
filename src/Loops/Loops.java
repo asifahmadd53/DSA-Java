@@ -1,4 +1,7 @@
-package Loops;
-
-public class Loops {
-}
+//package Loops;
+//
+//public class Loops {
+//    public static void main(String[] args){
+//        for
+//    }
+//}
