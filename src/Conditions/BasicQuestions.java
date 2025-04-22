@@ -116,7 +116,7 @@ public class BasicQuestions {
         }
 
         // 10. Smallest of Three Numbers
-        System.out.println("\n10. Smallest of Three ");
+        System.out.println("\n10. Smallest of Three Numbers");
         System.out.print("Enter three numbers: ");
         int x = sc.nextInt();
         int y = sc.nextInt();
