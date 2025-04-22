@@ -110,7 +110,7 @@ public class BasicQuestions {
         System.out.print("Enter a number: ");
         int check = sc.nextInt();
         if (check >= 1 && check <= 100) {
-            System.out.println("Yes, number is in range ");
+            System.out.println("Yes, number is in range 1-100");
         } else {
             System.out.println("No, number is out of range");
         }
