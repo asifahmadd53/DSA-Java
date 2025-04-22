@@ -102,7 +102,7 @@ public class BasicQuestions {
         if (angle1 + angle2 + angle3 == 180) {
             System.out.println("Valid Triangle");
         } else {
-            System.out.println("Invalid");
+            System.out.println("Invalid Triangle");
         }
 
         // 9. Number in Range 1 to 100
