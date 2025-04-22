@@ -121,7 +121,7 @@ public class BasicQuestions {
         int x = sc.nextInt();
         int y = sc.nextInt();
         int z = sc.nextInt();
-        int smallest = (x < y && x < z) ? x : (y < z ? y : z);
-        System.out.println("Smallest number is: " + smallest);
+//        int smallest = (x < y && x < z) ? x : (y < z ? y : z);
+//        System.out.println("Smallest number is: " + smallest);
     }
 }
