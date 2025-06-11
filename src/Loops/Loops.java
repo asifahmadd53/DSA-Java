@@ -23,15 +23,22 @@ public class Loops {
 //            System.out.println(i);
 //        }while (i==5);
 
-        System.out.print("Enter the number: ");
+//        System.out.print("Enter the number: ");
+//        Scanner sc = new Scanner(System.in);
+//        int num = sc.nextInt();
+//        int sum = 0;
+//        for (int i = 1; i<=num; i++){
+//            sum = sum+num;
+//            i++;
+//        }
+//        System.out.println("The sum of the number is "+sum);
+
+        System.out.println("Enter the number ");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        int sum = 0;
-        for (int i = 1; i<=num; i++){
-            sum = sum+num;
-            i++;
+        for(int i = 1; i<=10; i++){
+            System.out.println(num*i);
         }
-        System.out.println("The sum of the number is "+sum);
 
 
     }
